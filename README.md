@@ -11,7 +11,7 @@ Numerical: Price, Area, Bedrooms, Bathrooms, Stories, Parking.
 Categorical: Mainroad, Guestroom, Basement, Hot water heating, Air conditioning, Prefarea, Furnishing status.
 
 📈 Methodology & Technical Workflow
-The project follows a standard Data Science lifecycle:
+
 
 Data Cleaning: Handled data types and verified that no null values were present.
 
